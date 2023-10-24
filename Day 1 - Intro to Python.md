@@ -103,7 +103,6 @@ Single-line comments in Python start with the `#` symbol. Anything after `#` on 
 print("Hello, World!")
 
 ```
-
 ## Multi-Line Comments
 
 Python does not have a specific syntax for multi-line comments like some other languages. However, you can use triple-quoted strings (single or double quotes) for multi-line comments. These are often placed at the beginning of a module, class, or function to provide a description:
@@ -117,7 +116,6 @@ def my_function():
     pass
     
 ```
-
 ## Comments for Code Documentation
 
 In addition to regular comments, Python has a specific way of documenting code using docstrings. Docstrings are special strings enclosed in triple quotes that are used for documenting modules, classes, functions, and methods. They are more structured and can be accessed programmatically. For example:
@@ -138,7 +136,6 @@ def add(a, b):
     return a + b
 
 ```
-
 Python's convention is to use descriptive variable and function names to make the code more self-explanatory. However, well-placed comments and docstrings can be invaluable for understanding and maintaining code, especially in complex projects.
 
 ## Creating Applications using Python
