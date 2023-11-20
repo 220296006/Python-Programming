@@ -49,8 +49,8 @@ match = re.search(pattern, text)
 Regular expressions use metacharacters to specify patterns. Some common metacharacters include:
 
 - . : Matches any character except a newline.
--* : Matches 0 or more occurrences of the preceding character.
--+ : Matches 1 or more occurrences of the preceding character.
+- * : Matches 0 or more occurrences of the preceding character.
+- + : Matches 1 or more occurrences of the preceding character.
 - ? : Matches 0 or 1 occurrence of the preceding character.
 - ^ : Matches the beginning of the string.
 - $ : Matches the end of the string.
